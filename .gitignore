@@ -1,8 +1,2 @@
 /env
 .ipynb_checkpoints/
-\.ipynb_checkpoints
-/.ipynb_checkpoints
-.ipynb_checkpoints/
-**/*.ipynb_checkpoints/
-*/.ipynb_checkpoints/*.ipynb
-Folder/.ipynb_checkpoints/*.ipynb
